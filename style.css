@@ -224,4 +224,8 @@ tr:not(:last-child) {
     .card {
         max-width: 46rem;
     }
+
+    td {
+        text-indent: 11.8rem;
+    }
 }
