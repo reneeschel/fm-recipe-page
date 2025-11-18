@@ -129,7 +129,7 @@ ul li, ol li {
 }
 
 ol {
-    padding-bottom: 24px;
+    padding-block-end: 135rem;
     border-bottom: 1px solid var(--clr-stone-150);
 }
 
